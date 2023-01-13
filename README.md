@@ -8,7 +8,7 @@
 - 📫 How to reach me: penninoematita@gmail.com
 - 😄 Pronouns: He/Him
 - ⚡ Fun fact: It seems that I'm collecting all the kilos my friends are losing lately...
-- 🗺️ [Clicking here you can find the index of my repositories](https://github.com/vincenzoarena/index-repo)
+- 🗺️ [Clicking here you can find the index of my repositories.](https://github.com/vincenzoarena/index-repo)
 
 <!--
 **vincenzoarena/vincenzoarena** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -23,5 +23,5 @@ Here are some ideas to get you started:
 - 📫 How to reach me: penninoematita@gmail.com
 - 😄 Pronouns: He/Him
 - ⚡ Fun fact: It seems that I'm collecting all the kilos my friends are losing lately...
-- 🗺️ [Clicking here you can find the index of my repositories](https://github.com/vincenzoarena/index-repo)
+- 🗺️ [Clicking here you can find the index of my repositories.](https://github.com/vincenzoarena/index-repo)
 -->
