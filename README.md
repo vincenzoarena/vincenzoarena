@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 - 🔭 I’m currently working on my designing skills.
-- 🌱 I’m currently learning UI Design @[CareerFoundry](https://careerfoundry.com/) after studying Web Development @[DCI](https://digitalcareerinstitute.org/).
+- 🌱 I prematurely finished a course in UI Design @[CareerFoundry](https://careerfoundry.com/) after studying Web Development @[DCI](https://digitalcareerinstitute.org/).
 - 👯 I’m looking to collaborate on many different projects.
 - 🤔 I’m looking for help to improve my skills.
 - 💬 Ask me about Comics, TV Series, Animates Series, Anime, Manga, Movies, Video Games, DUNGEONS&DRAGONS, Drawing, Coding, Good food...
